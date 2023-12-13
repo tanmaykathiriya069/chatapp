@@ -1,0 +1,8 @@
+path :- C:\Users\tanmay\OneDrive\Desktop\Extra\CHATAPP
+
+
+(javac Server.java) (javac Client.java)
+
+(java Server)(java Client) 
+
+cmd(ipconfig){for:- laptop ip address(192.168.104.178)}
