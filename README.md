@@ -1,2 +1,2 @@
-# chatbot
-This is chatbot to use chatting with friends in local area network.
+# chatapp
+This is a chat app to use to chat with friends in the local area network.
